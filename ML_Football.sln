@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ML_Football", "ML_Football.pyproj", "{D9EC1F9E-534D-44C8-B2A0-D38250FE0380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EC1F9E-534D-44C8-B2A0-D38250FE0380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EC1F9E-534D-44C8-B2A0-D38250FE0380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5104E1A-0A52-4EAE-8901-BDED2DBB2484}
+	EndGlobalSection
+EndGlobal
